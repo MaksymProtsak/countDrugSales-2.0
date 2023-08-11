@@ -1,0 +1,62 @@
+[
+    {
+        "fileName": "badm1.csv",
+        "dateCreated": "12.02.2023 14:47",
+        "status": true
+    },
+    {
+        "fileName": "badm2.csv",
+        "dateCreated": "20.01.2023 22:54",
+        "status": true
+    },
+    {
+        "fileName": "badm3.csv",
+        "dateCreated": "20.01.2023 22:54",
+        "status": true
+    },
+    {
+        "fileName": "koneks1.csv",
+        "dateCreated": "01.02.2023 23:24",
+        "status": true
+    },
+    {
+        "fileName": "koneks2.csv",
+        "dateCreated": "21.01.2023 12:56",
+        "status": true
+    },
+    {
+        "fileName": "koneks3.csv",
+        "dateCreated": "20.01.2023 23:58",
+        "status": true
+    },
+    {
+        "fileName": "optima1.csv",
+        "dateCreated": "12.02.2023 18:15",
+        "status": true
+    },
+    {
+        "fileName": "optima2.csv",
+        "dateCreated": "01.02.2023 23:07",
+        "status": true
+    },
+    {
+        "fileName": "optima3.csv",
+        "dateCreated": "21.01.2023 13:32",
+        "status": true
+    },
+    {
+        "fileName": "venta1.csv",
+        "dateCreated": "12.02.2023 17:23",
+        "status": true
+    },
+    {
+        "fileName": "venta2.csv",
+        "dateCreated": "20.01.2023 23:59",
+        "status": true
+    },
+    {
+        "fileName": "venta3.csv",
+        "dateCreated": "20.01.2023 23:59",
+        "status": true
+    }
+]
